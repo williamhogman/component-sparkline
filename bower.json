@@ -1,0 +1,5 @@
+{
+  "name" : "jquery.sparkline",
+  "version" : "dev",
+  "main": ["./jquery.sparkline.js"],
+}
