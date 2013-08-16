@@ -1,5 +1,5 @@
 {
-  "name" : "jquery.sparkline",
+  "name" : "component-sparkline",
   "version" : "dev",
   "main": ["./jquery.sparkline.js"],
   "dependencies": {
