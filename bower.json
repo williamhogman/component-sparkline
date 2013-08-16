@@ -2,4 +2,7 @@
   "name" : "jquery.sparkline",
   "version" : "dev",
   "main": ["./jquery.sparkline.js"],
+  "dependencies": {
+    "jquery": "~1.10"
+  }
 }
